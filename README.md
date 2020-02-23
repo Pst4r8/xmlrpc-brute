@@ -2,9 +2,6 @@
 ## Multiple Brute Force XMLRPC [Wordpress] 
 <a href="http://c0delabs.com/"><img src="screenshoot/brute.PNG" title="Multiple Brute Force XMLRPC [Wordpress] " alt="Multiple Brute Force XMLRPC [Wordpress] "></a>
 
-### Clone
-
-- Clone this repo to your local machine using `git clone https://github.com/galehrizky/wp-brute-xmlrpc.git`
 
 ### Install
 
